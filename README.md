@@ -27,7 +27,7 @@ git clone https://github.com/felipe-yuri/api-cities.git
 
 2. Importar o projeto eu sua IDE de preferência
    
-3. Startar o projeto através do springboot application
+3. Iniciar o projeto através do springboot application
 
 ## ⚙️ <a name="1"></a>Endpointers
 
